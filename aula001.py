@@ -1,0 +1,5 @@
+print("Ola mundo!")
+print("23")
+print(23)
+print("Esse eh o programa",2)
+print("Eu tenho",11,"cachorros")
